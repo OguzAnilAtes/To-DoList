@@ -1,0 +1,69 @@
+.notes-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  .note {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .note h3 {
+    margin-top: 0;
+  }
+  
+  .note p {
+    margin-bottom: 1rem;
+  }
+  
+  .note-form {
+    margin-bottom: 2rem;
+  }
+  
+  .note-form div {
+    margin-bottom: 1rem;
+  }
+  
+  .note-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .note-form input, .note-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn-primary, .btn-secondary, .btn-danger {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 0.5rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .btn-primary:hover, .btn-secondary:hover, .btn-danger:hover {
+    opacity: 0.8;
+  }
+  
