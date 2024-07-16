@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ToDoApp.Models.Note>
+
+<h2>My Notes</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>@note.Text</td>
+            </tr>
+        }
+    </tbody>
+</table>

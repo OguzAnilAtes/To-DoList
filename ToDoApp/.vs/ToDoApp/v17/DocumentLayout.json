@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anate\\source\\repos\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|c:\\users\\anate\\source\\repos\\todoapp\\todoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20962CC8-5887-46FE-8FC6-B76427AD02C9}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Startup.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Startup.cs",
+              "RelativeToolTip": "ToDoApp\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:13:07.333Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "ToDoApp\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:11:12.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ToDoApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:14:04.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ToDoApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:59:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Services\\TokenService.cs",
+              "RelativeToolTip": "ToDoApp\\Services\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ToDoApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:26:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\anate\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "ToDoApp\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:47:25.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+2024-07-12 13:29:02.886 +03:00 [INF] Starting web host
+2024-07-12 13:29:20.881 +03:00 [INF] User Anıl logged in successfully.
+2024-07-12 13:29:20.968 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:29:21.032 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:29:37.732 +03:00 [INF] Note added for user ID 2 with title 'Log denemesi'.
+2024-07-12 13:29:39.643 +03:00 [INF] Note with ID 34 marked as deleted.
+2024-07-12 13:35:57.885 +03:00 [INF] Starting web host
+2024-07-12 13:36:15.937 +03:00 [INF] User Anıl logged in successfully.
+2024-07-12 13:36:16.025 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:36:16.089 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:36:28.405 +03:00 [INF] Note with ID 13 updated. New title: 'Anıl's New Title Updated', New text: 'Anıl's new text. Updated'.
+2024-07-12 13:36:42.395 +03:00 [INF] Note added for user ID 2 with title 'Log denemesii'.
+2024-07-12 13:36:44.285 +03:00 [INF] Note with ID 35 marked as deleted.
+2024-07-12 13:43:16.348 +03:00 [INF] Starting web host
+2024-07-12 13:43:33.315 +03:00 [INF] User Anıl logged in successfully.
+2024-07-12 13:43:33.398 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:43:33.475 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 13:43:46.193 +03:00 [INF] User Log registered successfully.
+2024-07-12 13:43:55.322 +03:00 [WRN] Invalid login attempt for user Log.
+2024-07-12 13:44:08.025 +03:00 [WRN] Invalid login attempt for user Log.
+2024-07-12 13:45:16.183 +03:00 [INF] User Log logged in successfully.
+2024-07-12 13:45:16.203 +03:00 [INF] Retrieved 0 notes for user ID 27.
+2024-07-12 13:45:16.206 +03:00 [INF] Retrieved 0 notes for user ID 27.
+2024-07-12 13:47:26.685 +03:00 [INF] Starting web host
+2024-07-12 13:47:54.066 +03:00 [INF] User testuser logged in successfully.
+2024-07-12 13:47:54.156 +03:00 [INF] Retrieved 1 notes for user ID 1.
+2024-07-12 13:47:54.224 +03:00 [INF] Retrieved 1 notes for user ID 1.
+2024-07-12 14:21:59.933 +03:00 [INF] Starting web host
+2024-07-12 16:10:59.178 +03:00 [INF] Starting web host
+2024-07-12 16:11:47.378 +03:00 [INF] User Ali registered successfully.
+2024-07-12 16:11:54.792 +03:00 [INF] User Ali logged in successfully.
+2024-07-12 16:11:54.860 +03:00 [INF] Retrieved 0 notes for user ID 28.
+2024-07-12 16:11:54.876 +03:00 [INF] Retrieved 0 notes for user ID 28.
+2024-07-12 16:12:02.394 +03:00 [INF] Note added for user ID 28 with title 'yeni not'.
+2024-07-12 16:12:09.483 +03:00 [INF] Note with ID 36 updated. New title: 'yeni not updatded', New text: 'yeni text. yenilendi'.
+2024-07-12 16:12:11.106 +03:00 [INF] Note with ID 36 marked as deleted.
+2024-07-12 16:12:13.934 +03:00 [INF] Note added for user ID 28 with title ''.
+2024-07-12 16:12:17.535 +03:00 [INF] Note with ID 37 marked as deleted.
+2024-07-12 16:12:43.599 +03:00 [INF] Note added for user ID 28 with title 'wraewaea'.
+2024-07-12 16:13:03.736 +03:00 [INF] Note with ID 38 marked as deleted.
+2024-07-12 16:22:35.126 +03:00 [INF] Starting web host
+2024-07-12 16:23:56.141 +03:00 [INF] User Anıl logged in successfully.
+2024-07-12 16:23:56.224 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 16:23:56.288 +03:00 [INF] Retrieved 5 notes for user ID 2.
+2024-07-12 16:24:57.036 +03:00 [INF] Note with ID 19 updated. New title: 'Project Development', New text: 'Test the CRUD methods.'.
+2024-07-12 16:25:50.155 +03:00 [INF] Note with ID 13 updated. New title: 'Anıl's New Title Updated', New text: 'Anıl's new text. Updated'.
+2024-07-12 16:30:15.955 +03:00 [INF] User NewUser registered successfully.
+2024-07-12 16:30:35.622 +03:00 [INF] User NewUser logged in successfully.
+2024-07-12 16:30:35.633 +03:00 [INF] Retrieved 0 notes for user ID 29.
+2024-07-12 16:30:35.637 +03:00 [INF] Retrieved 0 notes for user ID 29.
+2024-07-12 16:31:20.260 +03:00 [INF] Note added for user ID 29 with title 'Home'.
+2024-07-12 16:32:11.041 +03:00 [INF] Note added for user ID 29 with title 'Market'.
+2024-07-12 16:34:03.229 +03:00 [INF] User New User registered successfully.
